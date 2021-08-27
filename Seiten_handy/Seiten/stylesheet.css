@@ -1,0 +1,128 @@
+	/***FÜR ALLE SEITEN***/
+	
+	/**HAUPTMENÜ**/
+	
+	* {
+		margin:0px;
+		padding:0px;
+		border-width:0px;
+	}
+	html, body{
+		height:100%;
+	}
+	
+	body {
+		font-family: "Tw Cen MT", Calibri;
+		font-size:15pt;
+		color:#336600;
+		background-color:#ffffff;
+	}
+	h1{
+		font-size:17pt;
+	}
+	h3{
+		color:#468C00;
+	}
+	p,li{
+		color:#101010;
+	}
+	h1, a{
+		color:#336600;
+	}
+	
+	/* The Modal (background) */
+	.modal {
+		background-color:rgba(130,130,130,0.4);
+		display: none;
+		position: fixed; 
+		z-index: 1; /* Sit on top */
+		padding-top: 40px;
+		padding-left: 30px;
+		left: 0;
+		top: 0;
+		width: 100%; 
+		height: 100%;
+		overflow: auto; /* Enable scroll if needed */
+	}
+
+	/* Modal Content */
+	.modal-content {
+		width:100px;		
+	}
+
+	/* The Close Button */
+	.close {
+		color: #212121;
+		float: right;
+		font-size: 28px;
+		font-weight: bold;
+	}
+	
+	.banner{
+		width:100%;
+		height:auto;
+	}
+	.menu{
+		border-spacing:0px;
+		background: linear-gradient(to bottom, #ffffff, #93D04F); 
+	}
+	.menu td{
+		padding: 6px;
+		text-align:center;
+		border:solid #CDC5C9 2px;
+	}
+	.icon_div{
+		background: linear-gradient(to right, #ffffff, #93D04F); 
+		witdh:100%;
+	}
+	.visited{
+		color:#66CC00;
+		background-color:#e5e5e5;
+	}
+		
+	/**FOOTER MIT LINNKS**/
+	.footer{
+		text-align:center;
+		font-size:12pt;
+		margin-top:10px ;
+		padding:5px;
+		background: linear-gradient(to right, #ffffff, #93D04F);
+	}
+	
+	.footer table{
+		width:100%;
+	}
+		
+	/***FÜR SEITEN MIT UNTERMENÜ***/
+	.untermenu{
+		background: linear-gradient(to right, #EDF7DC, #ACE572);
+	}
+		
+	.untermenu table{
+		padding:0px;
+		text-align:center;
+		width:100%;
+	}
+		
+	.untermenu td, .untermenu th{
+		width:33.3%;
+	}
+		
+	.untermenu td{
+		border:solid #ffffff 2px;
+		background-color:rgba(255,255,255,0.5);
+	}
+		
+	.untermenu th{
+		border:solid #32752E 2px;
+		color:#32752E;
+	}
+		
+		
+	/****INHALT****/
+	.inhalt{
+		margin:7px;
+		padding:5px;
+		background-color:#FFF2F9;
+		font-size:13pt;
+	}

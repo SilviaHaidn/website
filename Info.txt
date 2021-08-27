@@ -1,0 +1,29 @@
+LOGO
+Schriftart:Tw Cen MT
+Farbe hellgrün?: #92D050
+
+Farbe hellgrün Hintergrund: #BAFF75
+
+Rot: 51 Grün: 102 Blau: 00
+Farbe dunkelgrün: #336600
+
+Farbe rosa: #FFF2F9
+
+Buttons
+
+Home
+Kinesiologie
+	Touch for
+	3 in 1
+	Geschichte
+Kurse und Vorträge
+Einzelsitzung
+Gästebuch
+Kontakt
+	Standort Auer
+	Standort Agatha
+	Über mich
+
+
+Hintergrund grün: #BAFF75
+Tabellenfarbe rosé: "#FFDDED"
